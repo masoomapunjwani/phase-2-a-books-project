@@ -1,10 +1,8 @@
 import React, { useState, useEffect } from "react";
-// import { MenuList } from "./MenuList";
-import bookItem from "./bookItem";
 import "../styles/Menu.css";
 
 
-function book() {
+function Book() {
     const[book, setbook]= useState([])
     useEffect(()=>{
         fetch ("https://phase-2-pizzaina-projo.herokuapp.com/products")
@@ -16,7 +14,7 @@ function book() {
         <div className="book">
             <h1 className="bookTitle">Our Books</h1>
             <div className="bookList">
-                {menu.map((bookItem) => {
+                {book.map((bookItem) => {
                     return (
                         <bookItem
                             key={bookItem.name}
@@ -31,4 +29,4 @@ function book() {
     );
 }
 
-export default book;
+export default Book;
