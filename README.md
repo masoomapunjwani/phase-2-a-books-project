@@ -13,11 +13,9 @@
 
 ## User Stories:
 
-- In the Home Page, our name restaurant name and contact is displayed.
+- In the Home Page, we have titled name and order now.
 - A user is then able to move to different areas like the Menu, List, About information and Contact.
-- One is able to browse over the different kinds of pizzas that they would be interested in.
-- Place an order for my Pizza and get it served.
-- Have an option to order as many pizzas as I want.
+- One is able to browse over the different types of books that they would be interested in.
 - The page is able to toggle anytime it is toggled to minify and the Navbar list dissapears and vice-versa.
 
 ## Languages and Frameworks
@@ -34,12 +32,6 @@
 
 Contributions to the project are welcome. Fork this repo to contribute.
 
-## Setup instructions
-
-HTTPS: `git clone https://github.com/Malvino-creator/phase-2-automobile-project`
-
-SSH: `git clone https://github.com/Malvino-creator/phase-2-automobile-project`
-
 ## Live Site
 
 #### Available Here: ()
@@ -48,4 +40,4 @@ SSH: `git clone https://github.com/Malvino-creator/phase-2-automobile-project`
 [MIT LICENCE](LICENSE)
 ## Author
 
-- [Malvin Opondo](https://github.com/Malvino-creator)
+- [Masooma Punjwani](https://github.com/masoomapunjwani)
