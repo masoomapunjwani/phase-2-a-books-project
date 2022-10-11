@@ -1,11 +1,13 @@
 import React from "react";
 
-function bookItem({image, name, price}) {
+function bookItem({image, title, date}) {
     return(
         <div className="bookItem">
-            <div style={{backgroundImage: `url(${image})`}}> </div>
-            <h1> {name} </h1>
-            <p> ${price} </p>
+            <div>
+                <img src={image} alt="poster" />
+            </div>
+            <h1> {title} </h1>
+            <p> publishedDate: {date} </p>
         </div>
     );
 }
