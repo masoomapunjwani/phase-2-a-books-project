@@ -1,6 +1,5 @@
 {
-  "homepage": "https://masoomapunjwani.github.io/phase-2-a-books-project",
-  "name": "auto-workshop",
+  "name": "book-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,6 +24,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [
