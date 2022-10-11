@@ -1,4 +1,4 @@
-# Pizza-Inn Restaurant 
+# A-books-project
 
 ### (MS School Project)
 
@@ -9,7 +9,7 @@
 + [Authors Info](#Author)
 ## Overall Project Description
 
-- This project is a website application where pizza lovers get to enjoy the variety while getting mouth watering cuisines at great offers. Through the app we get to manage our large volumes that trickle in on a daily basis and satisfy our every customers' need as well as go beyond to leave a form through which they can contact us and leave reviews.
+- This project is a website application where book lovers get to read the variety of books. Through the app we get to implement new books so people can take advantage of the resources' also have provided form so that they can give us their feedback.
 
 ## User Stories:
 
