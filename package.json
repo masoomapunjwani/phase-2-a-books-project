@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Malvino-creator.github.io/phase-2-pizzaina-project.git",
+  "homepage": "https://masoomapunjwani.github.io/phase-2-a-books-project",
   "name": "auto-workshop",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
